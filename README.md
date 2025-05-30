@@ -19,3 +19,6 @@ print('test')
 
 > [!WARNING]
 > 4
+
+> [!Caution]
+> 5
