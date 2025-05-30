@@ -8,3 +8,14 @@
 ```Python
 print('test')
 ```
+> [!Note]
+> 1
+
+> [!tip]
+> 2
+
+> [!Important]
+> 3
+
+> [!WARNING]
+> 4
